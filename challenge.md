@@ -64,7 +64,7 @@ There are 2 endpoints in this project:-
     ├── Dockerfile
     ├── main.py
     ├── models.py
-    ├── readme.md
+    ├── challenge.md
     ├── requirements.txt
     ├── scraper.py
     └── start
